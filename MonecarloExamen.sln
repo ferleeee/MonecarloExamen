@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonecarloExamen", "MonecarloExamen.csproj", "{536F0C3F-1165-4AC7-879F-2FF4D8F2A79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		d|Any CPU = d|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536F0C3F-1165-4AC7-879F-2FF4D8F2A79F}.d|Any CPU.ActiveCfg = d|Any CPU
+		{536F0C3F-1165-4AC7-879F-2FF4D8F2A79F}.d|Any CPU.Build.0 = d|Any CPU
+		{536F0C3F-1165-4AC7-879F-2FF4D8F2A79F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{536F0C3F-1165-4AC7-879F-2FF4D8F2A79F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDCAC85C-0E1E-44CF-87A3-C6E690D5EFD8}
+	EndGlobalSection
+EndGlobal

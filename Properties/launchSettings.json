@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "workingDirectory": "C:\\Users\\Lee\\source\\repos\\MonecarloExamen\\bin\\Debug\\net8.0-windows\\Profile 1"
+    }
+  }
+}
